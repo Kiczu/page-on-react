@@ -1,0 +1,116 @@
+{
+  "fundations": [
+    {
+      "id": 1,
+      "name": "Fundacja: Dbam o Zdrowie",
+      "desc": "Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+      "things": "ubrania, jedzenie, sprzęt AGD, meble, zabawki"
+    },
+    {
+      "id": 2,
+      "name": "Fundacja: Dla dzieci",
+      "desc": "Pomoc dzieciom z ubogich rodzin.",
+      "things": "ubrania, meble, zabawki"
+    },
+    {
+      "id": 3,
+      "name": "Fundacja: Bez domu",
+      "desc": "Pomoc dla osób nie posiadających miejsca zamieszkania.",
+      "things": "ubrania, jedzenie, ciepłe koce"
+    },
+    {
+      "id": 4,
+      "name": "Fundacja: Lorem ipsum 01",
+      "desc": "Pomoc lorem ipsum color dolor 01.",
+      "things": "Porchetta cow corned beef meatball jowl."
+    },
+    {
+      "id": 5,
+      "name": "Fundacja: Lorem ipsum 02",
+      "desc": "Pomoc lorem ipsum color dolor 02.",
+      "things": "Shankle ribeye kevin beef ribs, kielbasa chicken."
+    },
+    {
+      "id": 6,
+      "name": "Fundacja: Lorem ipsum 03",
+      "desc": "Pomoc lorem ipsum color dolor 03.",
+      "things": "Sirloin meatball pork loin kevin pork belly.."
+    },
+    {
+      "id": 7,
+      "name": "Fundacja: Lorem ipsum 04",
+      "desc": "Pomoc lorem ipsum color dolor 04.",
+      "things": "Chicken fatback spare ribs tri-tip ham hock."
+    },
+    {
+      "id": 8,
+      "name": "Fundacja: Lorem ipsum 05",
+      "desc": "Pomoc lorem ipsum color dolor 05.",
+      "things": "Corned beef jerky bacon, capicola cupim turkey meatball."
+    },
+    {
+      "id": 9,
+      "name": "Fundacja: Lorem ipsum 06",
+      "desc": "Pomoc lorem ipsum color dolor 06.",
+      "things": "prosciutto tongue sirloin beef ribs pastrami strip steak."
+    }
+  ],
+  "organizations": [
+    {
+      "id": 1,
+      "name": "Organizacja: Lorem ipsum 01",
+      "desc": "Pomoc lorem ipsum color dolor 01.",
+      "things": "prosciutto tongue sirloin beef ribs pastrami strip steak."
+    },
+    {
+      "id": 2,
+      "name": "Organizacja: Dla dzieci",
+      "desc": "Pomoc dzieciom z ubogich rodzin.",
+      "things": "ubrania, meble, zabawki"
+    },
+    {
+      "id": 3,
+      "name": "Organizacja: Bez domu",
+      "desc": "Pomoc dla osób nie posiadających miejsca zamieszkania.",
+      "things": "ubrania, jedzenie, ciepłe koce"
+    },
+    {
+      "id": 4,
+      "name": "Organizacja: Lorem ipsum 01",
+      "desc": "Pomoc lorem ipsum color dolor 01.",
+      "things": "Porchetta cow corned beef meatball jowl."
+    },
+    {
+      "id": 5,
+      "name": "Organizacja: Lorem ipsum 02",
+      "desc": "Pomoc lorem ipsum color dolor 02.",
+      "things": "Shankle ribeye kevin beef ribs, kielbasa chicken."
+    },
+    {
+      "id": 6,
+      "name": "Organizacja: Lorem ipsum 03",
+      "desc": "Pomoc lorem ipsum color dolor 03.",
+      "things": "Sirloin meatball pork loin kevin pork belly.."
+    }
+  ],
+  "local": [
+    {
+      "id": 1,
+      "name": "Zbiórka: Dla dzieci",
+      "desc": "Pomoc dzieciom z ubogich rodzin.",
+      "things": "ubrania, meble, zabawki"
+    },
+    {
+      "id": 2,
+      "name": "Zbiórka: Bez domu",
+      "desc": "Pomoc dla osób nie posiadających miejsca zamieszkania.",
+      "things": "ubrania, jedzenie, ciepłe koce"
+    },
+    {
+      "id": 3,
+      "name": "Zbiórka: Lorem ipsum 01",
+      "desc": "Pomoc lorem ipsum color dolor 01.",
+      "things": "Porchetta cow corned beef meatball jowl."
+    }
+  ]
+}

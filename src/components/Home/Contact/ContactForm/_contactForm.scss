@@ -1,0 +1,58 @@
+.form {
+  &-contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+  }
+  &-row {
+    display: flex;
+    gap: 15px;
+    width: 100%;
+  }
+  &-group {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-self: flex-end;
+  }
+}
+.col,
+.col-2 {
+  width: 100%;
+}
+input[type="text"],
+textarea {
+  outline: none;
+  border: none;
+  overflow: auto;
+  border-bottom: 1px solid #000;
+  background-color: transparent;
+  line-height: 1.3125rem;
+}
+textarea {
+  min-height: 100px;
+}
+label {
+  font-weight: 600;
+}
+.btn-submit {
+  border: 1px solid #3c3c3c;
+  padding: 13px 52px;
+  transition: 0.3s;
+
+  &:hover {
+    color: #fff;
+    background-color: #3c3c3c;
+  }
+}
+.succes-message {
+  color: green;
+  font-weight: 600;
+  text-align: center;
+}
+.error-message {
+  display: block;
+  min-height: 25px;
+  color: red;
+}

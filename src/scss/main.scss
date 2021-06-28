@@ -1,0 +1,8 @@
+@import "../../node_modules/scss-reset/reset";
+@import "../../node_modules/normalize-scss/sass/normalize";
+@import "./settings/fonts";
+@import "./settings/colors";
+
+body {
+  font-family: $font-base;
+}

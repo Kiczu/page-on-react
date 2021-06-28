@@ -1,0 +1,17 @@
+@import "../../../scss/settings/colors";
+
+.button {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 36px;
+  text-transform: uppercase;
+  border: 1px solid $color-black;
+  padding: 2% 5%;
+  transition: 0.3s;
+
+  &:hover {
+    background-color: $background-yellow;
+    color: #fff;
+    border: 1px solid transparent;
+  }
+}

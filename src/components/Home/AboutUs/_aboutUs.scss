@@ -1,0 +1,41 @@
+.aboutUs {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #f0f1f1;
+
+  .divider__container {
+    width: 50%;
+  }
+
+  &__text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+    text-align: center;
+    width: 50%;
+    padding: 5% 8%;
+
+    p {
+      font-size: 1.8rem;
+      line-height: 3rem;
+    }
+
+    svg {
+      align-self: flex-end;
+    }
+  }
+
+  &__image {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background-image: url("./People.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+  }
+}
